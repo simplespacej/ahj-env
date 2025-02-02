@@ -1,3 +1,4 @@
+![CI](https://github.com/simplespacej/ahj-env/actions/workflows/web.yml/badge.svg)
 # Webpack5
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
